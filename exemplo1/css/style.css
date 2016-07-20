@@ -1,0 +1,21 @@
+.container {
+  margin: 0 auto;
+  width: 960px;
+}
+
+body {
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+  line-height: 1.6;
+}
+
+.place {
+  border-color: #ccc #999 #999 #ccc;
+  border: 1px solid #ccc;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.place h2{
+  border-bottom: 1px dashed #7e9f19;
+  margin: 0;
+}
